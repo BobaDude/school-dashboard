@@ -1,0 +1,27 @@
+{
+    "name": "School Dashboard",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.html",
+    "license": "MIT",
+    "author": {
+        "name": "Conrad Kuzmick",
+        "email": "cgkuzmick@gmail.com",
+        "url": "https://www.conradkuzmick.com"
+    },
+    "scripts": {
+      "start": "parcel index.html --open",
+      "build": "parcel build index.html"
+    },
+    "dependencies": {
+      "parcel-bundler": "^1.6.1"
+    },
+    "devDependencies": {
+      "@babel/core": "7.2.0",
+      "typescript": "4.4.4"
+    },
+    "resolutions": {
+      "@babel/preset-env": "7.13.8"
+    },
+    "keywords": []
+  }
