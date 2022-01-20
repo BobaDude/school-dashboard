@@ -4,10 +4,16 @@
     "description": "",
     "main": "index.html",
     "license": "MIT",
-    "author": {
-        "name": "Conrad Kuzmick",
-        "email": "cgkuzmick@gmail.com",
-        "url": "https://www.conradkuzmick.com"
+    "authors": {
+        "conrad": {
+            "name": "Conrad Kuzmick",
+            "email": "cgkuzmick@gmail.com",
+            "url": "https://www.conradkuzmick.com"
+        },
+        "alex": {
+            "name": "Alexander Picker",
+            "email": "27apicker@cpsd.us"
+        }
     },
     "scripts": {
       "start": "parcel index.html --open",
