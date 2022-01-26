@@ -1,5 +1,5 @@
 {
-    "name": "School Dashboard",
+    "name": "dashboard",
     "version": "1.0.0",
     "description": "",
     "main": "index.html",
@@ -13,6 +13,10 @@
         "alex": {
             "name": "Alexander Picker",
             "email": "27apicker@cpsd.us"
+        },
+        "albert": {
+          "name": "Albert Zhang",
+          "email": "27azhang@cpsd.us"
         }
     },
     "scripts": {
